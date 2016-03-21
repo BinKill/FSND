@@ -28,3 +28,8 @@ When ready too generate your wbsite simply run the tv.py file by opening it in y
 ```python tv.py```
 
 Make sure the **fresh_tomatoes.py** and **media.py** files are included in the same directory as **tv.py**.
+
+
+## License
+
+The FSND Movie Trailer project is released under the [GNU General Public License v3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
